@@ -1,4 +1,4 @@
-# ExerciseDBT: Project Report
+# ExerciseDBT: Project Report     Andrea MACHEDA
 
 In the context of this project, we had the opportunity to delve into the realm of Analytics Engineering using DBT (Data Build Tool), PostgreSQL, and Metabase. This hands-on experience allowed us to establish a comprehensive data pipeline, from data importation to visualization of insights.
 
